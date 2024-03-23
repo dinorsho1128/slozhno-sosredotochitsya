@@ -1,14 +1,17 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background-color: #000028;
-    --accent-color: #ff0070;
+    --accent-color: rgb(219, 0, 255);
     --heading-color: #db00ff;
     --hover-border-color: rgba(255, 0, 112, 0.4);
     --menu-color: #ff0070;
     --text-color: #f1b2ce;
+    
+   --main-title-color:color #7f0492;
     --title-decor-color: #000028;
     --title-color: #ff0070;
     --display-bulb: flex;
+    --texts-color:  #ff0070;
   }
 
   .page {
@@ -18,6 +21,8 @@
 
 .page.theme_dark {
   --background-color: #000028;
+  
+  --main-title-color:color #7f0492;
   --accent-color: #ff0070;
   --heading-color: #db00ff;
   --hover-border-color: rgba(255, 0, 112, 0.4);
