@@ -683,12 +683,11 @@
     width: 355px;
   }
 
-  .page {
-    width: 375px;
-  }
+ 
   .container {
     width: 375px;
     padding: 0 10px;
+  
   }
   .header__theme-menu {
     float: right;
@@ -887,6 +886,7 @@
 
   .footer__title {
     display: flex;
+    padding: 228px 0px 299px 0px;
     width: 355px;
     align-items: center;
     justify-content: center;
