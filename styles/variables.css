@@ -23,4 +23,5 @@
   --background-images: rgba(255, 241, 247, 1);
   --page-background-color: var(--color-black-1, rgba(255, 241, 247, 1));
   --rec-decor-visibility: visible;
+  --text-shadow: 1px 1px 0 var(--color-purple-2, #ff0070);
 }
