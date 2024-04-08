@@ -14,14 +14,12 @@
     --texts-color:  #ff0070;
     --color-black-2: #f1b2ce;
     --color-pink-1: #ff0070;
+    --background-images: rgba(0, 0, 40, 1);
     --text-shadow:5px 2px 0 var(--color-purple-2, #ff0070);
     --background-image: url(../images/cover-image-dark.png);
   }
 
-  .page {
-    --background-images: rgba(0, 0, 40, 1);
-      background-image: url(../images/cover-image-dark.png);
-  }
+
 }
 
 .page.theme_dark {
